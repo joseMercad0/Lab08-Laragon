@@ -1,3 +1,15 @@
+Observaciones:
+-Se instalo de manera correcta el paquete laragon.
+-El paquete tiene muchas carpetas ahí almacenan funciones.
+-los archivos como medios o imágenes que usaron estan en  carpetas separadas
+-hay mas php que html en el codigo.
+-Subir en git fue algo normal.
+Conclusiones:
+-los paquetes como laragon son plantillas para poder diseñar la pagina configurando sus valores y nombres de los archivos.
+-Organizar estos paquetes ya que hay una razón porque esta un archivo x.
+-La forma correcta de ejecutar un cmd es ponerlo como administrador.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
